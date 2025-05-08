@@ -1,0 +1,682 @@
+{
+    "common": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "testimonials": "Testimonials",
+        "blog": "Blog",
+        "contact": "Contact",
+        "language": "Language",
+        "quickLinks": "Quick Links",
+        "viewAll": "View All",
+        "getStarted": "Get Started",
+        "readMore": "Read More",
+        "learnMore": "Learn More",
+        "contactUs": "Contact Us"
+    },
+    "home": {
+        "hero": {
+            "title": "Grow Your Social Media Presence",
+            "subtitle": "Strategic marketing solutions for businesses of all sizes",
+            "cta": "Get Started",
+            "tagline": "Social Media Marketing Experts",
+            "mainTitle": "Elevate Your Brand with Strategic Social Media Marketing",
+            "description": "We help businesses transform their social media presence, engage their audience, and drive measurable results through data-driven strategies.",
+            "trustedBy": "Trusted by leading brands",
+            "engagementGrowth": "Engagement Growth"
+        },
+        "services": {
+            "title": "Our Services",
+            "description": "We offer a range of services to help your business thrive online",
+            "sectionTitle": "Comprehensive Social Media Solutions",
+            "sectionDescription": "We provide end-to-end social media marketing services to help your business grow and engage with your target audience.",
+            "viewAll": "View All Services"
+        },
+        "testimonials": {
+            "title": "What Our Clients Say",
+            "description": "Trusted by businesses worldwide",
+            "sectionTitle": "Client Testimonials",
+            "sectionDescription": "Don't just take our word for it. Hear from the businesses we've helped succeed.",
+            "readMore": "Read More Testimonials"
+        },
+        "contact": {
+            "title": "Ready to Transform Your Social Media?",
+            "description": "Get in touch with our team today",
+            "button": "Contact Us",
+            "ctaTitle": "Ready to Transform Your Social Media Presence?",
+            "ctaDescription": "Let's work together to create a winning social media strategy that drives real business results.",
+            "ctaButton": "Get Started Today"
+        },
+        "stats": {
+            "clientRetention": "Client Retention",
+            "clientRetentionDesc": "Long-term partnerships built on trust",
+            "happyClients": "Happy Clients",
+            "happyClientsDesc": "Across various industries worldwide",
+            "socialEngagements": "Social Engagements",
+            "socialEngagementsDesc": "Generated for our clients monthly",
+            "yearsExperience": "Years Experience",
+            "yearsExperienceDesc": "In digital marketing excellence"
+        },
+        "portfolio": {
+            "subtitle": "Case Studies",
+            "title": "Our Success Stories",
+            "description": "See how we've helped our clients achieve remarkable growth and engagement through strategic social media marketing.",
+            "viewAll": "View All Case Studies"
+        },
+        "platforms": {
+            "subtitle": "Platforms We Specialize In",
+            "title": "Strategic Presence Across All Major Platforms",
+            "description": "We create tailored strategies for each platform to maximize your brand's impact where your audience spends their time."
+        },
+        "whyChooseUs": {
+            "subtitle": "Why Choose Us",
+            "title": "The SocialSphere Difference",
+            "description": "We're not just another marketing agency. Our unique approach sets us apart and delivers exceptional results for our clients.",
+            "dataApproach": "Data-Driven Approach",
+            "dataApproachDesc": "We don't rely on guesswork. Every strategy and tactic is backed by solid data and continuous testing for optimal results.",
+            "industrySpecialization": "Industry Specialization",
+            "industrySpecializationDesc": "Our team has specialized experience across various industries, allowing us to understand your unique challenges and opportunities.",
+            "creativity": "Award-Winning Creativity",
+            "creativityDesc": "Our creative campaigns have won industry recognition for their innovation, effectiveness, and strategic execution.",
+            "communication": "Transparent Communication",
+            "communicationDesc": "We maintain open, honest communication at all times, ensuring you're always informed about your campaigns' performance.",
+            "team": "Dedicated Expert Team",
+            "teamDesc": "Each client works with a dedicated team of specialists who understand your brand and industry inside out.",
+            "results": "Results-Focused",
+            "resultsDesc": "We're obsessed with delivering measurable results that impact your bottom line, not just vanity metrics."
+        }
+    },
+    "about": {
+        "title": "About SocialSphere",
+        "mission": "Our Mission",
+        "vision": "Our Vision",
+        "team": "Our Team",
+        "heroTitle": "About SocialSphere",
+        "heroDescription": "We're a team of passionate social media experts dedicated to helping brands connect with their audience and achieve remarkable growth.",
+        "ourStory": {
+            "subtitle": "Our Story",
+            "title": "How SocialSphere Began",
+            "description": "Founded in 2010, SocialSphere started with a simple mission: to help businesses harness the power of social media to build authentic connections with their audience.",
+            "paragraph1": "What began as a small team of three passionate social media enthusiasts has grown into a full-service agency with over 50 professionals across strategy, creative, analytics, and account management.",
+            "paragraph2": "Through the years, we've stayed true to our core belief: that effective social media marketing combines data-driven strategy with authentic storytelling to create meaningful engagement and measurable business results."
+        },
+        "missionValues": {
+            "subtitle": "Mission & Values",
+            "title": "What Drives Us Every Day",
+            "description": "Our mission and values are at the heart of everything we do, guiding our strategies, decisions, and client relationships.",
+            "missionTitle": "Our Mission",
+            "missionDescription": "To empower brands to build meaningful connections with their audience through innovative, data-driven social media strategies that deliver measurable business results.",
+            "missionTagline": "Transforming social media presence into business growth",
+            "visionTitle": "Our Vision",
+            "visionDescription": "To be the leading social media agency known for creating innovative strategies that bridge the gap between brands and their audiences, setting new standards for the industry.",
+            "visionTagline": "Pioneering the future of digital connection",
+            "values": {
+                "excellence": "Excellence",
+                "excellenceDesc": "We hold ourselves to the highest standards in every aspect of our work, constantly striving to exceed expectations.",
+                "innovation": "Innovation",
+                "innovationDesc": "We embrace change, challenge conventions, and continuously evolve to stay ahead in a rapidly changing digital landscape.",
+                "integrity": "Integrity",
+                "integrityDesc": "We conduct business with honesty, transparency, and ethical principles, building trust with our clients and within our team.",
+                "collaboration": "Collaboration",
+                "collaborationDesc": "We believe in the power of teamwork, fostering partnerships with our clients and working together to achieve common goals."
+            }
+        },
+        "team": {
+            "subtitle": "Our Team",
+            "title": "Meet the Experts Behind SocialSphere",
+            "description": "Our diverse team brings together decades of experience in social media, marketing, design, and data analytics.",
+            "teamDescription": "Our full team includes specialists in content creation, community management, paid social advertising, influencer marketing, data analysis, and more.",
+            "joinTeam": "Join our growing team — ",
+            "viewPositions": "View open positions"
+        },
+        "achievements": {
+            "subtitle": "Our Achievements",
+            "title": "Recognition & Awards",
+            "description": "Our work and expertise have been recognized by leading industry organizations and publications.",
+            "featuredIn": "Featured In"
+        },
+        "whyChooseUs": {
+            "subtitle": "Why Choose Us",
+            "title": "Partner with the Best in Social Media",
+            "description": "When you work with SocialSphere, you get more than just a service provider. You get a dedicated partner committed to your success.",
+            "trackRecord": "Proven Track Record",
+            "trackRecordDesc": "Over 250+ satisfied clients and a portfolio of successful campaigns across diverse industries.",
+            "expertTeam": "Expert Team",
+            "expertTeamDesc": "Specialists in every aspect of social media marketing, from strategy to execution to analytics.",
+            "customStrategies": "Custom Strategies",
+            "customStrategiesDesc": "Tailored approaches based on your unique business goals, audience, and industry challenges.",
+            "reporting": "Transparent Reporting",
+            "reportingDesc": "Clear, comprehensive reporting that shows the real impact of our work on your business."
+        },
+        "callToAction": {
+            "title": "Ready to Work with Our Expert Team?",
+            "description": "Let's discuss how we can help your brand achieve remarkable growth through strategic social media marketing.",
+            "primaryButton": "Contact Us Today",
+            "secondaryButton": "View Our Services"
+        }
+    },
+    "services": {
+        "title": "Our Services",
+        "strategy": {
+            "title": "Social Media Strategy",
+            "description": "Customized strategies to meet your business goals"
+        },
+        "content": {
+            "title": "Content Creation",
+            "description": "Engaging content that resonates with your audience"
+        },
+        "management": {
+            "title": "Community Management",
+            "description": "Building and nurturing your online community"
+        },
+        "ads": {
+            "title": "Paid Advertising",
+            "description": "Targeted campaigns to reach your ideal customers"
+        },
+        "analytics": {
+            "title": "Analytics & Reporting",
+            "description": "Data-driven insights to optimize performance"
+        },
+        "socialMediaManagement": {
+            "title": "Social Media Management",
+            "description": "Full-service social media management with customized strategies, content creation, and community engagement.",
+            "features": [
+                "Platform selection & optimization",
+                "Content calendar planning",
+                "Daily monitoring & engagement",
+                "Community management",
+                "Monthly performance reports"
+            ]
+        },
+        "paidSocialAdvertising": {
+            "title": "Paid Social Advertising",
+            "description": "Strategic paid social campaigns that target your ideal customers and drive measurable ROI.",
+            "features": [
+                "Platform-specific ad strategies",
+                "Custom audience targeting",
+                "Ad creative development",
+                "A/B testing & optimization",
+                "Conversion tracking & reporting"
+            ]
+        },
+        "socialMediaStrategy": {
+            "title": "Social Media Strategy",
+            "description": "Data-driven strategy development to align your social media efforts with business objectives.",
+            "features": [
+                "Competitor & market analysis",
+                "Brand positioning & voice",
+                "Content strategy development",
+                "Growth opportunity identification",
+                "KPI setting & measurement"
+            ]
+        },
+        "influencerMarketing": {
+            "title": "Influencer Marketing",
+            "description": "Connect with relevant influencers to amplify your brand message and reach new audiences.",
+            "features": [
+                "Influencer identification & vetting",
+                "Campaign conceptualization",
+                "Partnership negotiation",
+                "Content approval & monitoring",
+                "Performance measurement"
+            ]
+        },
+        "contentCreation": {
+            "title": "Content Creation",
+            "description": "Eye-catching, engaging content that resonates with your audience and drives meaningful interactions.",
+            "features": [
+                "Platform-specific content",
+                "Photography & videography",
+                "Graphic design & animations",
+                "Copywriting & messaging",
+                "User-generated content strategies"
+            ]
+        },
+        "socialMediaTraining": {
+            "title": "Social Media Training",
+            "description": "Empower your team with the knowledge and skills to excel at social media marketing.",
+            "features": [
+                "Customized training workshops",
+                "Platform-specific best practices",
+                "Content creation techniques",
+                "Analytics & reporting guidance",
+                "Ongoing support & resources"
+            ]
+        },
+        "hero": {
+            "title1": "Our",
+            "title2": "Professional Services",
+            "description": "Comprehensive social media solutions designed to elevate your brand, engage your audience, and deliver measurable business results."
+        },
+        "main": {
+            "subtitle": "Core Services",
+            "title": "Our Comprehensive Service Offerings",
+            "description": "We provide complete social media solutions tailored to your specific business goals, audience, and industry."
+        },
+        "specialized": {
+            "subtitle": "Specialized Services",
+            "title": "Industry-Specific Solutions",
+            "description": "We offer specialized social media services designed to address the unique challenges and opportunities of different industries."
+        },
+        "industry": {
+            "ecommerce": {
+                "title": "E-commerce",
+                "description": "Specialized strategies to boost product discovery, increase conversions, and build brand loyalty for online retailers.",
+                "features": [
+                    "Shopping post optimization",
+                    "Product-focused ad campaigns",
+                    "User-generated content strategies"
+                ]
+            },
+            "b2b": {
+                "title": "B2B Technology",
+                "description": "Sophisticated approaches to showcase thought leadership, generate qualified leads, and support sales cycles.",
+                "features": [
+                    "LinkedIn-focused strategies",
+                    "Thought leadership content",
+                    "Lead generation campaigns"
+                ]
+            },
+            "food": {
+                "title": "Food & Beverage",
+                "description": "Mouth-watering visual content and engagement strategies to build community and drive foot traffic.",
+                "features": [
+                    "Appetizing visual content",
+                    "Local targeting & promotion",
+                    "Influencer partnerships"
+                ]
+            },
+            "fashion": {
+                "title": "Fashion & Beauty",
+                "description": "Trend-focused strategies that showcase products, build aspiration, and create brand advocates.",
+                "features": [
+                    "Lifestyle photography & video",
+                    "Influencer collaborations",
+                    "Seasonal campaign planning"
+                ]
+            },
+            "healthcare": {
+                "title": "Healthcare",
+                "description": "Compliant, educational content that builds trust and positions your organization as an authority.",
+                "features": [
+                    "HIPAA-compliant strategies",
+                    "Educational content development",
+                    "Community building & support"
+                ]
+            },
+            "nonprofit": {
+                "title": "Non-Profit",
+                "description": "Impact-focused strategies that tell compelling stories, move supporters, and drive donations.",
+                "features": [
+                    "Storytelling-based content",
+                    "Donation campaign optimization",
+                    "Volunteer & supporter engagement"
+                ]
+            }
+        },
+        "learnMore": "Learn More",
+        "getStarted": "Get Started",
+        "process": {
+            "subtitle": "Our Process",
+            "title": "How We Deliver Results",
+            "description": "Our proven process ensures we develop and implement strategies that align with your business goals and deliver measurable results.",
+            "steps": [
+                {
+                    "title": "Discovery & Analysis",
+                    "description": "We begin by understanding your business, audience, industry, and competitors to identify opportunities and challenges."
+                },
+                {
+                    "title": "Strategy Development",
+                    "description": "Based on our analysis, we develop a comprehensive strategy that aligns with your business goals and audience needs."
+                },
+                {
+                    "title": "Content Creation",
+                    "description": "Our creative team develops engaging, on-brand content tailored to each platform and audience segment."
+                },
+                {
+                    "title": "Implementation & Management",
+                    "description": "We execute the strategy across platforms, managing posting, engagement, and community building."
+                },
+                {
+                    "title": "Performance Analysis",
+                    "description": "Ongoing monitoring and analysis of performance metrics to identify what's working and opportunities for improvement."
+                },
+                {
+                    "title": "Optimization & Growth",
+                    "description": "Based on analytics, we refine the strategy and tactics to improve results and scale your social media success."
+                }
+            ]
+        },
+        "packages": {
+            "subtitle": "Pricing & Packages",
+            "title": "Flexible Solutions for Your Business",
+            "description": "We offer a range of packages designed to meet different needs and budgets, from startups to established enterprises.",
+            "popular": "Most Popular",
+            "startup": {
+                "title": "Startup Package",
+                "description": "Ideal for new businesses looking to establish their social media presence.",
+                "price": "$1,200",
+                "features": [
+                    "2 social media platforms",
+                    "8 posts per month",
+                    "Basic content creation",
+                    "Monthly performance report",
+                    "Community management (business hours)"
+                ]
+            },
+            "growth": {
+                "title": "Growth Package",
+                "description": "Perfect for businesses ready to expand their social media impact.",
+                "price": "$2,400",
+                "features": [
+                    "4 social media platforms",
+                    "15 posts per month",
+                    "Advanced content creation",
+                    "Weekly performance updates",
+                    "Community management (extended hours)",
+                    "Social ad management (excluding ad spend)",
+                    "Monthly strategy calls"
+                ]
+            },
+            "enterprise": {
+                "title": "Enterprise Package",
+                "description": "Comprehensive solution for established brands with complex needs.",
+                "price": "$4,500+",
+                "features": [
+                    "All social media platforms",
+                    "30+ posts per month",
+                    "Premium content creation",
+                    "Real-time analytics dashboard",
+                    "24/7 community management",
+                    "Advanced social ad campaigns",
+                    "Dedicated account manager",
+                    "Quarterly strategy reviews",
+                    "Influencer partnership management"
+                ]
+            },
+            "custom": {
+                "title": "Need a Custom Solution?",
+                "description": "Our packages are just starting points. We're happy to create a custom solution that perfectly fits your specific needs and goals.",
+                "cta": "Contact us for a custom quote"
+            }
+        },
+        "faq": {
+            "subtitle": "FAQs",
+            "title": "Frequently Asked Questions",
+            "description": "Answers to common questions about our social media marketing services.",
+            "questions": [
+                {
+                    "question": "How long does it take to see results from social media marketing?",
+                    "answer": "While some metrics like engagement and follower growth can show improvements within weeks, meaningful business results typically take 3-6 months. Social media marketing is a long-term strategy that builds momentum over time. We set realistic expectations and provide regular updates on progress toward your goals."
+                },
+                {
+                    "question": "Do you work with businesses in any industry?",
+                    "answer": "Yes, we work with businesses across a wide range of industries. Our team has expertise in sectors including e-commerce, B2B technology, healthcare, food & beverage, fashion, finance, education, and more. We tailor our approach to the specific challenges and opportunities in your industry."
+                },
+                {
+                    "question": "Can I choose specific services instead of a package?",
+                    "answer": "Absolutely! While our packages offer the best value for most clients, we understand that some businesses have specific needs. We're happy to create a custom solution that includes only the services you need."
+                },
+                {
+                    "question": "Which platforms do you specialize in?",
+                    "answer": "We have expertise across all major platforms including Facebook, Instagram, Twitter, LinkedIn, TikTok, Pinterest, and YouTube. We'll recommend the platforms that best align with your target audience and business goals rather than taking a one-size-fits-all approach."
+                },
+                {
+                    "question": "How do you measure the success of social media campaigns?",
+                    "answer": "We establish clear KPIs at the beginning of our engagement based on your business objectives. These might include metrics like engagement rate, reach, website traffic, lead generation, or direct sales. We provide regular reports that track progress against these KPIs and provide insights on performance and opportunities for improvement."
+                },
+                {
+                    "question": "Do you handle paid social media advertising as well?",
+                    "answer": "Yes, we provide comprehensive paid social advertising services across all major platforms. This includes strategy development, creative production, audience targeting, campaign setup, ongoing optimization, and reporting. Ad spend is not included in our package prices and is determined based on your objectives and budget."
+                }
+            ]
+        },
+        "cta": {
+            "title": "Ready to Elevate Your Social Media Presence?",
+            "description": "Contact us today to discuss how our services can help you achieve your business goals.",
+            "primaryButton": "Contact Us",
+            "secondaryButton": "View Our Work"
+        }
+    },
+    "blog": {
+        "title": "Our Blog",
+        "categories": {
+            "all": "All Categories",
+            "trends": "Trends",
+            "strategy": "Strategy",
+            "platforms": "Platforms",
+            "technology": "Technology",
+            "content": "Content",
+            "analytics": "Analytics"
+        },
+        "hero": {
+            "title1": "Our",
+            "title2": "Blog",
+            "description": "Insights, tips, and trends in social media marketing to help your brand succeed.",
+            "searchPlaceholder": "Search articles..."
+        },
+        "featured": {
+            "subtitle": "Featured Article",
+            "title": "Latest Articles from Our Blog",
+            "description": "Stay informed with our latest articles, insights, and industry trends.",
+            "readArticle": "Read Article"
+        },
+        "allPosts": {
+            "subtitle": "Article Archive",
+            "title": "Browse All Articles",
+            "description": "Explore our collection of insights, guides, and industry analysis.",
+            "filterBy": "Filter by",
+            "noArticles": "No articles found",
+            "tryAdjusting": "Try adjusting your search or filter to find what you're looking for.",
+            "loadMore": "Load More Articles"
+        },
+        "newsletter": {
+            "subtitle": "Stay Informed",
+            "title": "Subscribe to Our Newsletter",
+            "description": "Get the latest social media marketing tips, tricks, and trends delivered straight to your inbox."
+        },
+        "topics": {
+            "subtitle": "Browse by Topic",
+            "title": "Popular Categories",
+            "description": "Explore our content by topic to find the most relevant information for you.",
+            "articles": "articles"
+        }
+    },
+    "contact": {
+        "title": "Get in Touch",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "submit": "Submit",
+        "success": "Your message has been sent successfully!",
+        "error": "There was an error sending your message. Please try again.",
+        "hero": {
+            "title1": "Contact",
+            "title2": "Us",
+            "description": "Have a question or ready to start your social media journey? We'd love to hear from you."
+        },
+        "info": {
+            "call": {
+                "title": "Call Us",
+                "description": "Our team is available to take your call during business hours.",
+                "phone": "(123) 456-7890"
+            },
+            "email": {
+                "title": "Email Us",
+                "description": "Send us an email and we'll get back to you within 24 hours.",
+                "address": "info@socialsphere.com"
+            },
+            "hours": {
+                "title": "Business Hours",
+                "description": "We're open during the following hours:",
+                "weekdays": "Monday - Friday: 9am - 6pm",
+                "saturday": "Saturday: 10am - 4pm",
+                "sunday": "Sunday: Closed"
+            }
+        },
+        "form": {
+            "subtitle": "Contact Us",
+            "title": "Send Us a Message",
+            "description": "Whether you have a question about our services, pricing, or anything else, our team is ready to answer all your questions."
+        },
+        "location": {
+            "title": "Our Location",
+            "address": "123 Social Street, Marketing District<br>New York, NY 10001"
+        },
+        "social": {
+            "title": "Connect With Us",
+            "description": "Follow us on social media for updates, tips, and insights about social media marketing."
+        },
+        "map": {
+            "title": "Office Location"
+        }
+    },
+    "notFound": {
+        "title": "Page Not Found",
+        "description": "The page you are looking for doesn't exist or has been moved.",
+        "backButton": "Back to Home"
+    },
+    "portfolio": {
+        "title": "Our Portfolio",
+        "heroTitle": "Our Portfolio",
+        "heroDescription": "Explore our case studies to see how we've helped businesses achieve remarkable results through strategic social media marketing.",
+        "ourWork": {
+            "subtitle": "Our Work",
+            "title": "Featured Case Studies",
+            "description": "Browse our collection of successful client projects across various industries.",
+            "filterLabel": "Filter:",
+            "filterAll": "All Industries"
+        },
+        "approach": {
+            "subtitle": "Our Approach",
+            "title": "How We Create Success Stories",
+            "description": "Our proven process ensures that every project delivers measurable results aligned with your business goals.",
+            "steps": {
+                "discovery": {
+                    "number": "01",
+                    "title": "Discovery & Research",
+                    "description": "We begin by understanding your business, audience, and goals. Comprehensive research informs our strategic recommendations."
+                },
+                "strategy": {
+                    "number": "02",
+                    "title": "Strategy Development",
+                    "description": "Based on insights, we create a tailored strategy with clear KPIs, content approach, and platform selection."
+                },
+                "implementation": {
+                    "number": "03",
+                    "title": "Implementation",
+                    "description": "Our expert team executes the strategy with meticulous attention to detail, from content creation to campaign management."
+                },
+                "optimization": {
+                    "number": "04",
+                    "title": "Optimization & Growth",
+                    "description": "Continuous analysis and optimization ensure your social media presence consistently improves and delivers results."
+                }
+            }
+        },
+        "results": {
+            "subtitle": "Client Success",
+            "title": "Real Results for Real Businesses",
+            "description": "Our campaigns consistently deliver measurable results that impact our clients' bottom line.",
+            "stats": {
+                "engagements": {
+                    "value": "3.2M+",
+                    "label": "Social Engagements",
+                    "description": "Generated monthly across client accounts"
+                },
+                "roi": {
+                    "value": "156%",
+                    "label": "Average ROI",
+                    "description": "For our paid social campaigns"
+                },
+                "conversion": {
+                    "value": "42%",
+                    "label": "Conversion Increase",
+                    "description": "Average uplift in conversion rates"
+                },
+                "retention": {
+                    "value": "87%",
+                    "label": "Client Retention",
+                    "description": "Clients who continue past the first year"
+                }
+            }
+        },
+        "faq": {
+            "subtitle": "FAQs",
+            "title": "Common Questions About Our Projects",
+            "description": "Answers to frequently asked questions about our portfolio and client work.",
+            "questions": {
+                "measurement": {
+                    "question": "How do you measure the success of your campaigns?",
+                    "answer": "We establish clear KPIs at the beginning of each project based on your business objectives. These might include engagement metrics, website traffic, lead generation, sales, or other relevant measures. We provide regular reporting on these KPIs and continually optimize our approach to improve results."
+                },
+                "industry": {
+                    "question": "Do you work with businesses in my industry?",
+                    "answer": "We have experience across a wide range of industries, from e-commerce and B2B technology to food & beverage, fashion, healthcare, and more. Our team takes the time to understand the unique challenges and opportunities in your specific industry to develop tailored strategies that work."
+                },
+                "timeline": {
+                    "question": "How long does it take to see results from your campaigns?",
+                    "answer": "While some metrics like engagement and follower growth can improve within weeks, meaningful business results typically take 3-6 months to fully materialize. Social media is a long-term strategy that builds momentum over time. We set realistic expectations and provide regular updates on progress toward your goals."
+                },
+                "caseStudies": {
+                    "question": "Can I see more detailed case studies for my specific industry?",
+                    "answer": "Absolutely! The case studies featured on our website are just a sample of our work. Contact us with details about your industry and challenges, and we'll provide relevant case studies and references tailored to your specific situation."
+                }
+            }
+        },
+        "callToAction": {
+            "title": "Ready to Be Our Next Success Story?",
+            "description": "Let's discuss how we can help your brand achieve remarkable results with strategic social media marketing.",
+            "primaryButton": "Start Your Project",
+            "secondaryButton": "Learn About Our Services"
+        }
+    },
+    "testimonials": {
+        "title": "Client Testimonials",
+        "heroTitle": "Client Testimonials",
+        "heroDescription": "Don't just take our word for it. Hear what our clients have to say about working with SocialSphere.",
+        "featured": {
+            "quote": "After struggling with our social media marketing for years, finding SocialSphere was a game-changer. Their strategic approach and execution have transformed our social channels from a cost center into our #1 source of qualified leads.",
+            "author": "Michael Davidson",
+            "position": "CMO, Quantum Innovations"
+        },
+        "clientFeedback": {
+            "subtitle": "Client Feedback",
+            "title": "What Our Clients Say",
+            "description": "Read testimonials from clients across various industries who have achieved remarkable results with our help.",
+            "filterAll": "All Industries"
+        },
+        "videoTestimonials": {
+            "subtitle": "Video Testimonials",
+            "title": "Hear Directly From Our Clients",
+            "description": "Watch our clients share their experiences working with SocialSphere."
+        },
+        "clients": {
+            "subtitle": "Our Clients",
+            "title": "Brands That Trust Us",
+            "description": "We've had the privilege of working with amazing brands across various industries."
+        },
+        "successStories": {
+            "subtitle": "Success Stories",
+            "title": "See the Results Behind the Testimonials",
+            "description": "Explore our detailed case studies to see exactly how we've helped clients achieve remarkable results.",
+            "viewAll": "View All Case Studies"
+        },
+        "callToAction": {
+            "title": "Ready to Join Our Satisfied Clients?",
+            "description": "Contact us today to discuss how our social media marketing services can help your business grow.",
+            "primaryButton": "Get Started",
+            "secondaryButton": "View Our Services"
+        }
+    },
+    "footer": {
+        "rights": "All Rights Reserved",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "cookies": "Cookie Policy",
+        "contactInfo": "Contact Information",
+        "subscribe": "Subscribe to our newsletter",
+        "newsletterDesc": "Get the latest updates, tips and insights on social media marketing."
+    }
+}

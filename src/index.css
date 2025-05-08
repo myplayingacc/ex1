@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* RTL specific styles */
+html[dir="rtl"] {
+  /* Override font for Arabic text */
+  font-family: 'Inter', 'Segoe UI', Tahoma, sans-serif;
+}
+
+html[dir="rtl"] .mr-1, 
+html[dir="rtl"] .mr-2, 
+html[dir="rtl"] .mr-3, 
+html[dir="rtl"] .mr-4 {
+  margin-right: 0;
+  margin-left: 0.25rem;
+}
+
+html[dir="rtl"] .ml-1, 
+html[dir="rtl"] .ml-2, 
+html[dir="rtl"] .ml-3, 
+html[dir="rtl"] .ml-4 {
+  margin-left: 0;
+  margin-right: 0.25rem;
+}
+
+html[dir="rtl"] .space-x-2 > :not([hidden]) ~ :not([hidden]),
+html[dir="rtl"] .space-x-4 > :not([hidden]) ~ :not([hidden]),
+html[dir="rtl"] .space-x-8 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+}
